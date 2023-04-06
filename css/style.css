@@ -43,7 +43,7 @@ body {
   line-height: 1.1;
   text-align: right;
   margin-right: 4em;
-  text-shadow: 0 1px 1px rgba(0,0,0, .4);
+  text-shadow: 0 1px 1px rgba(0,0,0, .8);
 }
 .source:before {
   content: "—";
@@ -59,7 +59,7 @@ body {
 .year:before {
   content: ", ";
   font-style: normal;
-  text-shadow: 0 1px 1px rgba(0,0,0, .4);
+  text-shadow: 0 1px 1px rgba(0,0,0, .8);
 }
 
 #loadQuote {
@@ -76,7 +76,7 @@ body {
   background-color: rgba(255,255,255, 0);
   padding: 15px 0;
   transition: .5s ;
-  text-shadow: 0 1px 1px rgba(0,0,0, .4);
+  text-shadow: 0 1px 1px rgba(0,0,0, .8);
   border-radius: 10%;
 }
 #loadQuote:hover {
@@ -99,7 +99,7 @@ body {
   background-color: rgba(255,255,255, 0);
   padding: 15px 0;
   transition: .5s ;
-  text-shadow: 0 1px 1px rgba(0,0,0, .4);
+  text-shadow: 0 1px 1px rgba(0,0,0, .8);
   border-radius: 10%;
 }
 #loadQuote2:hover {
